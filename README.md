@@ -19,3 +19,5 @@ rails generate scaffold book title:string content:text price:integer page:intege
 ```rb
 rake db:migrate
 ```
+
+> 這樣就完成建立了~~~~
