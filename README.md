@@ -1,5 +1,5 @@
 # 利用Scaffold 架設網頁 #Ruby on Rails
-**練習快速建CRUD**
+**課後練習，快速建立CRUD模板**
 > ## 注意事項
  > 1.   convenstion over configutation(CoC)按照慣例來寫
  > 2.   don't repeat yourself(DRY)不要重複的程式碼
