@@ -17,7 +17,7 @@ rails generate scaffold book title:string content:text price:integer page:intege
 ```
 #### Step3.建立一個資料表
 ```rb
-rake db:migrate
+rails db:migrate
 ```
 
 > 這樣就完成建立了~~~~
